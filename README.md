@@ -11,3 +11,8 @@ Polearm and crossbow combo (Press R) – requires to have bull helmet and monkey
 
 ### SourcePortal krunker.io Features:
 idk
+
+### Q&A
+
+- Q: How do i update?
+- A: Go to [HERE](https://greasyfork.org/scripts/38857-scriptsource-the-leading-portal-for-online-extensions-browser-enhancements-moomoo-io-krunker-io/code/ScriptSource:%20The%20Leading%20Portal%20for%20Online%20Extensions%20%E2%80%A2%20Browser%20Enhancements%20%5BMooMooioKrunkerio%5D.user.js)
