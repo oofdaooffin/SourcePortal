@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        ScriptSource: The Leading Portal for Online Extensions • Browser Enhancements [MooMoo.io/Krunker.io]
 // @namespace    -
-// @version     22
+// @version     22(oofdaooffin/SourcePortal)
 // @description  Currently trusted by over 100,000 users!
 // @author       Sammy «Z»#7383, Faber, Tehchy
 // @match        *://moomoo.io/*
